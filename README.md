@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @awaisraza7852
-- 👀 I’m interested in machine learning and automation scripts
-- 🌱 I’m currently learning algorithms
-- 💞️ I’m looking to collaborate on automation tools 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muaammad Awais Chaudhary
+- 👀 I’m interested in backend engineering, machine learning and automation scripts.
+- 🌱 I’m currently a learner 
 
 <!---
 awaisraza7852/awaisraza7852 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
