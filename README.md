@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muaammad Awais Chaudhary
+- 👋 Hi, I’m Muhammad Awais Chaudhary
 - 👀 I’m interested in backend engineering, machine learning and automation scripts.
 - 🌱 I’m currently a learner 
 
