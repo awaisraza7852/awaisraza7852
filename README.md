@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Awais Chaudhary
-- 👀 I’m interested in backend engineering, machine learning and automation scripts.
-- 🌱 I’m currently a learner 
+- 👀 I’m interested in data engineering and data analysis.
+- 🌱 I’m currently working at CTRedbridge and looking forward to new opportunities.
 
 <!---
 awaisraza7852/awaisraza7852 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
